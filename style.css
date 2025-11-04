@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&family=Smooch+Sans:wght@100..900&display=swap');
+
+h1{
+    color: #beddfc;
+}
+
+body{
+    background-color: #0d0e0e;
+    margin: 0 0px;
+}
+
+header{
+    background-color: #6b8aa7;
+    padding: 10px;
+    text-align: center;
+}
+
