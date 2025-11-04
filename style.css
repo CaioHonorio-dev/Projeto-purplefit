@@ -1,17 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@0,400..700;1,400..700&family=Smooch+Sans:wght@100..900&display=swap');
 
-h1{
+h1 {
     color: #beddfc;
 }
 
-body{
+body {
     background-color: #0d0e0e;
     margin: 0 0px;
+    font-family: "Smooch Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
 }
 
-header{
+header {
     background-color: #6b8aa7;
+    text-align: center;
+    padding: 2px;
+}
+
+nav {
     padding: 10px;
+    background-color: rgb(0, 107, 139);
     text-align: center;
 }
 
+nav a {
+    color: #beddfc;
+    text-decoration: none;
+    padding: 25px;
+    font-weight: bold;
+
+}
+    nav a:hover{
+        color: rgb(0, 0, 0);
+
+}
